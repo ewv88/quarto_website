@@ -1,1 +1,1 @@
-Sitemap: https://ewv88.github.io/quarto_website/sitemap.xml
+Sitemap: https://github.com/ewv88/quarto_website/sitemap.xml
